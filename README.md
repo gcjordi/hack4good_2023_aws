@@ -12,19 +12,25 @@ Mediante el reconocimiento de imágenes se pretende que la persona con discapaci
 
 La configuración de este sistema podría darse de distintas maneras, pero en este caso se ha planteado específicamente para que la persona usuaria del sistema pueda detectar al personal trabajador del supermercado en cuestión o pueda detectar los puntos de atención al cliente que estén señalizados con simbología reconocible con la imagen corporativa del establecimiento.
 
-La finalidad de todo ello es que la persona pueda disponer de más independencia y comodidad en su compra y, especialmente, que cuando requiera de hacer alguna pregunta o realizar cualqueir gestión con el personal del supermercado o centro comercial pueda detectar a dichas personas o puntos de atención automáticamente sin tener que preguntas a terceros por su localización.
+La finalidad de todo ello es que la persona pueda disponer de más independencia y comodidad en su compra y, especialmente, que cuando requiera de hacer alguna pregunta o realizar cualquier gestión con el personal del supermercado o centro comercial pueda detectar a dichas personas o puntos de atención automáticamente sin tener que preguntar a terceros por su localización.
 
 # Introducción técnica y disclaimer:
 
 Este proyecto se ha desarrollado únicamente con fines de demostración prototipo para el Hackathon for Good (https://www.hackathoniberia.com/), organizado por AWS entre el 26 de abril y el 10 de mayo del 2023.
 
-La fuente de datos primeria (el dataset) se ha generado artificialmente mediante IA generativa. Creando imágenes de personas / carteles vestidas con la indumentaria de un imaginado centro comercial.
+La fuente de datos primeria (el dataset) se ha generado artificialmente mediante IA generativa. Creando imágenes de personas (y carteles) vestidas con la indumentaria de un imaginado centro comercial.
 
-El estado actual de desarrollo no habilita al mismo en estos momentos para sus usos médicos, orientación o función sanitaria alguna.
+El estado actual de desarrollo no habilita al mismo en estos momentos para sus usos en producción de ningún tipo.
 
 Tanto los resultados obtenidos como la funcionalidad misma de este desarrollo tan sólo puede interpretarse por ahora como una mera demostración básica, pues se encuentra en un estado funcional pero evidentemente ni la cantidad de imágenes con las que se ha preparado el sistema ni muchas otras variables o consideraciones hacen que la fiabilidad en producción de este desarrollo esté ahora ni mucho menos establecida.
 
 # Implementación técnica resumida:
+
+Bucket en S3 para el dataset en la región de España (https://aws.amazon.com/es/local/spain/)
+
+Entrenamiento e inferencia con AMAZON REKOGNITION (https://aws.amazon.com/es/rekognition/)
+
+Utilización del servicio 
 
 # Notas finales: 
 
