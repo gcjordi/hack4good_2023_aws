@@ -30,7 +30,7 @@ Bucket en S3 para el dataset en la región de España (https://aws.amazon.com/es
 
 Entrenamiento e inferencia con AMAZON REKOGNITION (https://aws.amazon.com/es/rekognition/)
 
-Utilización del servicio 
+(en el dataset para un balanceo adecuado se pretende dotar una equivalencia entre imágenes que representen ciertamente la imagen corporativa del supermercado / centro comercial, imágenes que sean antagonistas de dicha imagen corporativa e imágenes que puedan resultar dudosas. Por ello será necesaria una continua retroalimentación del modelo hasta conseguir una robustez elevada)
 
 # Notas finales: 
 
