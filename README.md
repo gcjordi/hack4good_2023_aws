@@ -8,7 +8,7 @@ Este sistema simplemente está pensado para ser un aplicativo base para “prove
 
 Este sistema está centrado en proveer de las siguientes funcionalidades elementales:
 
-Mediante el reconocimiento de imágenes se pretende que la persona con discapacidad pueda circular de una forma más autónoma y segura por el "sumermercado" (o cualqueir otra gran superficie).
+Mediante el reconocimiento de imágenes se pretende que la persona con discapacidad pueda circular de una forma más autónoma y segura por el "supermercado" (o cualquier otra gran superficie).
 
 La configuración de este sistema podría darse de distintas maneras, pero en este caso se ha planteado específicamente para que la persona usuaria del sistema pueda detectar al personal trabajador del supermercado en cuestión o pueda detectar los puntos de atención al cliente que estén señalizados con simbología reconocible con la imagen corporativa del establecimiento.
 
