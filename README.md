@@ -36,4 +36,4 @@ Entrenamiento e inferencia con AMAZON REKOGNITION (https://aws.amazon.com/es/rek
 
 Los miembros del jurado pueden solicitarme el acceso al recurso en Rekognition, a la API en el momento que lo deseen para poder comprobar el funcionamiento del sistema si lo desean.
 
-Link al video del proyecto: 
+Link al video del proyecto: https://youtu.be/kx8kIJTUeNk
